@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     TextToSpeech tts;
     Button btnSpeak;
     EditText txtText;
+    int a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
